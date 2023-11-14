@@ -1,5 +1,6 @@
 # ocr_app
 スクショした画像の文字をコピペしやすくするWebアプリ
+![例](images/example.png)
 
 # 使い方
 
