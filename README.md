@@ -31,7 +31,7 @@ python -m venv .venv
 .venv\Scripts\activate.bat
 ```
 
-.venv環境に入れたら、reqirement.txtをpip
+.venv環境に入れたら、requirements.txtをpip
 
 
 ``` 
